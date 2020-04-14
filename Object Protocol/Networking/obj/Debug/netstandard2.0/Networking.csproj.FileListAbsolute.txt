@@ -1,0 +1,14 @@
+D:\Documents\MPP\Laborator\LaboratorC\Networking\obj\Debug\netstandard2.0\Networking.csprojAssemblyReference.cache
+D:\Documents\MPP\Laborator\LaboratorC\Networking\obj\Debug\netstandard2.0\Networking.csproj.CoreCompileInputs.cache
+D:\Documents\MPP\Laborator\LaboratorC\Networking\obj\Debug\netstandard2.0\Networking.AssemblyInfoInputs.cache
+D:\Documents\MPP\Laborator\LaboratorC\Networking\obj\Debug\netstandard2.0\Networking.AssemblyInfo.cs
+D:\Documents\MPP\Laborator\LaboratorC\Networking\bin\Debug\netstandard2.0\Networking.deps.json
+D:\Documents\MPP\Laborator\LaboratorC\Networking\bin\Debug\netstandard2.0\Networking.dll
+D:\Documents\MPP\Laborator\LaboratorC\Networking\bin\Debug\netstandard2.0\Networking.pdb
+D:\Documents\MPP\Laborator\LaboratorC\Networking\bin\Debug\netstandard2.0\Model.dll
+D:\Documents\MPP\Laborator\LaboratorC\Networking\bin\Debug\netstandard2.0\Services.dll
+D:\Documents\MPP\Laborator\LaboratorC\Networking\bin\Debug\netstandard2.0\Services.pdb
+D:\Documents\MPP\Laborator\LaboratorC\Networking\bin\Debug\netstandard2.0\Model.pdb
+D:\Documents\MPP\Laborator\LaboratorC\Networking\obj\Debug\netstandard2.0\Networking.csproj.CopyComplete
+D:\Documents\MPP\Laborator\LaboratorC\Networking\obj\Debug\netstandard2.0\Networking.dll
+D:\Documents\MPP\Laborator\LaboratorC\Networking\obj\Debug\netstandard2.0\Networking.pdb

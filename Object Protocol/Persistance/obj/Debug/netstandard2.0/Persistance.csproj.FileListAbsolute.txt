@@ -1,0 +1,12 @@
+D:\Documents\MPP\Laborator\LaboratorC\Persistance\bin\Debug\netstandard2.0\Model.dll
+D:\Documents\MPP\Laborator\LaboratorC\Persistance\obj\Debug\netstandard2.0\Persistance.csprojAssemblyReference.cache
+D:\Documents\MPP\Laborator\LaboratorC\Persistance\obj\Debug\netstandard2.0\Persistance.AssemblyInfoInputs.cache
+D:\Documents\MPP\Laborator\LaboratorC\Persistance\obj\Debug\netstandard2.0\Persistance.AssemblyInfo.cs
+D:\Documents\MPP\Laborator\LaboratorC\Persistance\bin\Debug\netstandard2.0\Persistance.deps.json
+D:\Documents\MPP\Laborator\LaboratorC\Persistance\bin\Debug\netstandard2.0\Persistance.dll
+D:\Documents\MPP\Laborator\LaboratorC\Persistance\bin\Debug\netstandard2.0\Persistance.pdb
+D:\Documents\MPP\Laborator\LaboratorC\Persistance\bin\Debug\netstandard2.0\Model.pdb
+D:\Documents\MPP\Laborator\LaboratorC\Persistance\obj\Debug\netstandard2.0\Persistance.csproj.CoreCompileInputs.cache
+D:\Documents\MPP\Laborator\LaboratorC\Persistance\obj\Debug\netstandard2.0\Persistance.csproj.CopyComplete
+D:\Documents\MPP\Laborator\LaboratorC\Persistance\obj\Debug\netstandard2.0\Persistance.dll
+D:\Documents\MPP\Laborator\LaboratorC\Persistance\obj\Debug\netstandard2.0\Persistance.pdb

@@ -1,0 +1,404 @@
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\obj\Debug\LaboratorClient.csprojAssemblyReference.cache
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\obj\Debug\LaboratorC.exe.config
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\obj\Debug\LaboratorC.AgentForm.resources
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\obj\Debug\LaboratorC.LoginForm.resources
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\obj\Debug\LaboratorC.RezervareForm.resources
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\obj\Debug\LaboratorClient.csproj.GenerateResource.cache
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\obj\Debug\LaboratorClient.csproj.CoreCompileInputs.cache
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\obj\Debug\LaboratorC.exe
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\obj\Debug\LaboratorC.pdb
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\LaboratorC.exe.config
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\LaboratorC.exe
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\LaboratorC.pdb
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\netstandard.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.AppContext.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Collections.Concurrent.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Collections.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Collections.NonGeneric.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Collections.Specialized.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.ComponentModel.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Console.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Data.Common.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Diagnostics.Debug.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Diagnostics.Process.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Diagnostics.Tools.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Drawing.Primitives.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Dynamic.Runtime.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Globalization.Calendars.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Globalization.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Globalization.Extensions.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.IO.Compression.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.IO.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.IO.FileSystem.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.IO.Pipes.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Linq.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Linq.Expressions.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Linq.Parallel.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Linq.Queryable.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Net.Http.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Net.NameResolution.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Net.NetworkInformation.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Net.Ping.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Net.Primitives.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Net.Requests.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Net.Security.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Net.Sockets.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Net.WebSockets.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.ObjectModel.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Reflection.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Reflection.Extensions.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Reflection.Primitives.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Resources.Reader.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Resources.ResourceManager.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Resources.Writer.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Runtime.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Runtime.Extensions.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Runtime.Handles.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Runtime.InteropServices.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Runtime.Numerics.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Security.Claims.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Security.Principal.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Security.SecureString.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Text.Encoding.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Text.RegularExpressions.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Threading.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Threading.Overlapped.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Threading.Tasks.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Threading.Thread.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Threading.ThreadPool.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Threading.Timer.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.ValueTuple.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Xml.XDocument.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Xml.XmlDocument.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Xml.XPath.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\EntityFramework.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\log4net.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\Model.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\Networking.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\Persistance.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\Services.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Data.SQLite.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Security.AccessControl.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Security.Permissions.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Security.Principal.Windows.dll
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\Model.pdb
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\Networking.pdb
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\Persistance.pdb
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\Services.pdb
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\EntityFramework.xml
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\log4net.xml
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Data.SQLite.xml
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Data.SQLite.dll.config
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Security.AccessControl.xml
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Security.Permissions.xml
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\bin\Debug\System.Security.Principal.Windows.xml
+D:\Documents\MPP\Laborator\LaboratorC\LaboratorC\obj\Debug\LaboratorClient.csproj.CopyComplete
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\LaboratorC.exe.config
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\LaboratorC.exe
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\LaboratorC.pdb
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\netstandard.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.AppContext.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Collections.Concurrent.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Collections.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Collections.NonGeneric.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Collections.Specialized.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.ComponentModel.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Console.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Data.Common.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Diagnostics.Debug.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Diagnostics.Process.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Diagnostics.Tools.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Drawing.Primitives.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Dynamic.Runtime.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Globalization.Calendars.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Globalization.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Globalization.Extensions.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.IO.Compression.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.IO.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.IO.FileSystem.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.IO.Pipes.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Linq.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Linq.Expressions.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Linq.Parallel.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Linq.Queryable.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Net.Http.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Net.NameResolution.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Net.NetworkInformation.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Net.Ping.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Net.Primitives.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Net.Requests.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Net.Security.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Net.Sockets.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Net.WebSockets.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.ObjectModel.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Reflection.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Reflection.Extensions.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Reflection.Primitives.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Resources.Reader.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Resources.ResourceManager.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Resources.Writer.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Runtime.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Runtime.Extensions.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Runtime.Handles.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Runtime.InteropServices.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Runtime.Numerics.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Security.Claims.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Security.Principal.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Security.SecureString.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Text.Encoding.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Text.RegularExpressions.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Threading.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Threading.Overlapped.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Threading.Tasks.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Threading.Thread.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Threading.ThreadPool.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Threading.Timer.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.ValueTuple.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Xml.XDocument.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Xml.XmlDocument.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Xml.XPath.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\EntityFramework.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\log4net.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\Model.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\Persistance.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\Services.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Data.SQLite.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Security.AccessControl.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Security.Permissions.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Security.Principal.Windows.dll
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\Model.pdb
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\Persistance.pdb
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\Services.pdb
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\EntityFramework.xml
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\log4net.xml
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Data.SQLite.xml
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Data.SQLite.dll.config
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Security.AccessControl.xml
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Security.Permissions.xml
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\bin\Debug\System.Security.Principal.Windows.xml
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\obj\Debug\LaboratorClient.csprojAssemblyReference.cache
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\obj\Debug\LaboratorC.exe.config
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\obj\Debug\LaboratorC.AgentForm.resources
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\obj\Debug\LaboratorC.LoginForm.resources
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\obj\Debug\LaboratorC.RezervareForm.resources
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\obj\Debug\LaboratorClient.csproj.GenerateResource.cache
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\obj\Debug\LaboratorClient.csproj.CoreCompileInputs.cache
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\obj\Debug\LaboratorClient.csproj.CopyComplete
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\obj\Debug\LaboratorC.exe
+D:\Documents\MPP\Laborator\LaboratorC - Copy\LaboratorC\obj\Debug\LaboratorC.pdb
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\LaboratorC.exe.config
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\LaboratorC.exe
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\LaboratorC.pdb
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\netstandard.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.AppContext.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Collections.Concurrent.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Collections.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Collections.NonGeneric.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Collections.Specialized.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.ComponentModel.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Console.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Data.Common.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Diagnostics.Debug.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Diagnostics.Process.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Diagnostics.Tools.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Drawing.Primitives.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Dynamic.Runtime.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Globalization.Calendars.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Globalization.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Globalization.Extensions.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.IO.Compression.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.IO.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.IO.FileSystem.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.IO.Pipes.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Linq.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Linq.Expressions.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Linq.Parallel.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Linq.Queryable.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Net.Http.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Net.NameResolution.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Net.NetworkInformation.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Net.Ping.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Net.Primitives.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Net.Requests.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Net.Security.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Net.Sockets.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Net.WebSockets.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.ObjectModel.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Reflection.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Reflection.Extensions.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Reflection.Primitives.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Resources.Reader.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Resources.ResourceManager.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Resources.Writer.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Runtime.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Runtime.Extensions.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Runtime.Handles.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Runtime.InteropServices.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Runtime.Numerics.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Security.Claims.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Security.Principal.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Security.SecureString.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Text.Encoding.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Text.RegularExpressions.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Threading.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Threading.Overlapped.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Threading.Tasks.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Threading.Thread.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Threading.ThreadPool.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Threading.Timer.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.ValueTuple.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Xml.XDocument.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Xml.XmlDocument.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Xml.XPath.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\EntityFramework.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\log4net.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\Model.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\Persistance.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\Services.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Data.SQLite.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Security.AccessControl.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Security.Permissions.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Security.Principal.Windows.dll
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\Model.pdb
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\Persistance.pdb
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\Services.pdb
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\EntityFramework.xml
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\log4net.xml
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Data.SQLite.xml
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Data.SQLite.dll.config
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Security.AccessControl.xml
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Security.Permissions.xml
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\bin\Debug\System.Security.Principal.Windows.xml
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\obj\Debug\LaboratorClient.csprojAssemblyReference.cache
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\obj\Debug\LaboratorC.exe.config
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\obj\Debug\LaboratorC.AgentForm.resources
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\obj\Debug\LaboratorC.LoginForm.resources
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\obj\Debug\LaboratorC.RezervareForm.resources
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\obj\Debug\LaboratorClient.csproj.GenerateResource.cache
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\obj\Debug\LaboratorClient.csproj.CoreCompileInputs.cache
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\obj\Debug\LaboratorClient.csproj.CopyComplete
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\obj\Debug\LaboratorC.exe
+D:\Documents\MPP\Laborator\LaboratorC - rmi\LaboratorC\obj\Debug\LaboratorC.pdb
